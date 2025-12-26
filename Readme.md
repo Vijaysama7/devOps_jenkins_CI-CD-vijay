@@ -131,10 +131,10 @@ version: '8.6.9.9'
 
 ## 🧑‍💻 Author
 
-**Harshith Reddy**
-DevOps Engineer & React Developer
-
+**Vijay Sama**
+** Aspiring DevOps Engineer**
 ---
+
 
 
 
