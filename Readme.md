@@ -130,10 +130,10 @@ version: '8.6.9.9'
 ---
 
 ## 🧑‍💻 Author
-
-**Vijay Sama**
-** Aspiring DevOps Engineer**
+* Vijay Sama*
+* Aspiring DevOps Engineer*
 ---
+
 
 
 
